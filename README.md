@@ -26,6 +26,83 @@ data packs should be put into this directory/folder:
 
 -----
 ```
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+# CHANGELOG 1.2:
+###### (files are in the 1.2/mods folder)
+
+## VILLAGER and PILLAGER and PIGLIN and ALSO SHIPS mods
+#### sooooo many structures (https://modrinth.com/datapack/towns-and-towers, https://modrinth.com/datapack/ati-structures-fabricforge, https://modrinth.com/mod/antique-trading-ship, https://modrinth.com/mod/villager-warship, https://modrinth.com/mod/illager-siege-weapons)
+
+#### MOB CIVIL WAR (https://modrinth.com/mod/mob-civil-war)
+other guys attack eachother now
+
+#### ROOM FOR TWO (https://modrinth.com/mod/room-for-two)
+sleep with villager mod
+
+#### AREAS & RANDOM VILLAGE NAMES (https://modrinth.com/mod/areas, https://modrinth.com/mod/random-village-names)
+places have names now
+
+#### DOPE AHH NETHER MODS (https://modrinth.com/mod/eternal-nether, https://modrinth.com/mod/piglin-outposts, ttps://modrinth.com/mod/basalt-watchtower, https://modrinth.com/mod/overworld-piglins, https://modrinth.com/mod/piglin-names)
+
+#### BETTER HAPPY GHASTS (https://modrinth.com/datapack/better-happy-ghast, https://modrinth.com/mod/thgw)
+POTENTIALLY makes happy ghasts worth anything
+
+#### VILLAGER MASQUERADE (https://modrinth.com/mod/village-masquerade)
+lets you BE a villager
+
+#### SHIPPY SHIPS (https://modrinth.com/mod/shippy-ships)
+adds new types of boats
+
+#### SAILS AND AIRSHIPS (https://modrinth.com/mod/sails-and-airships)
+the most dope mod of this entire update
+
+
+
+## FOOD mods
+#### CROPTOPIA (https://www.curseforge.com/minecraft/mc-mods/croptopia)
+Adds 500 million billion crops
+
+#### FARTING DELIGHT (https://modrinth.com/mod/farmers-delight-refabricated)
+Adds farming shizzle
+
+#### SIMPLE APPLE TREES (https://modrinth.com/mod/farmers-delight-refabricated)
+Adds apple trees and shizzle
+
+#### PANTRYWORK (https://modrinth.com/mod/pantrywork)
+lets you make shizzle from different food mods
+
+#### VINTNER (https://modrinth.com/mod/vintner)
+wine
+
+## MISC mods
+#### STONEWORKS (https://modrinth.com/mod/stoneworks)
+adds more stone types and splish
+#### EMOJI TYPE (https://modrinth.com/mod/emoji-type)
+emojis
+#### HORSE EXPERT (https://modrinth.com/mod/horse-expert)
+horses
+#### MORE MUSIC DISCS (https://modrinth.com/mod/more-music-discs)
+music
+#### STRAW STATUES (https://modrinth.com/mod/straw-statuesà
+dope ahh statues
+#### VIBRANT PARROTS (https://modrinth.com/mod/vibrant-parrots)
+parrots
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
 # CHANGELOG 1.1:
 ###### (files are in the 1.1/mods folder)
 
