@@ -4,7 +4,7 @@ the files and info and stuff needed for the SuperAwesomeMantwerpMinecraftServer
 <br>
 you'll also need to get the files from the right version yeahhh which is:
 <br>
-<h1>current version: <u>1.1</u></h1>
+<h1>current version: <u>1.2</u></h1>
 
 ----
 # SETUP REQUIREMENTS:
