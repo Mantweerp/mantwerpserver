@@ -34,7 +34,7 @@ data packs should be put into this directory/folder:
 ###### (files are in the 1.2/mods folder)
 
 ## VILLAGER and PILLAGER and PIGLIN and ALSO SHIPS mods
-#### sooooo many structures (https://modrinth.com/datapack/towns-and-towers, https://modrinth.com/datapack/ati-structures-fabricforge, https://modrinth.com/mod/antique-trading-ship, https://modrinth.com/mod/villager-warship, https://modrinth.com/mod/illager-siege-weapons)
+#### sooooo many structures (https://modrinth.com/datapack/towns-and-towers, https://modrinth.com/datapack/ati-structures-fabricforge, https://modrinth.com/mod/antique-trading-ship, https://modrinth.com/mod/villager-warship)
 
 #### MOB CIVIL WAR (https://modrinth.com/mod/mob-civil-war)
 other guys attack eachother now
@@ -45,9 +45,9 @@ sleep with villager mod
 #### AREAS & RANDOM VILLAGE NAMES (https://modrinth.com/mod/areas, https://modrinth.com/mod/random-village-names)
 places have names now
 
-#### DOPE AHH NETHER MODS (https://modrinth.com/mod/eternal-nether, https://modrinth.com/mod/piglin-outposts, ttps://modrinth.com/mod/basalt-watchtower, https://modrinth.com/mod/overworld-piglins, https://modrinth.com/mod/piglin-names)
+#### DOPE AHH NETHER MODS (https://modrinth.com/mod/eternal-nether, ttps://modrinth.com/mod/basalt-watchtower, https://modrinth.com/mod/overworld-piglins, https://modrinth.com/mod/piglin-names)
 
-#### BETTER HAPPY GHASTS (https://modrinth.com/datapack/better-happy-ghast, https://modrinth.com/mod/thgw)
+#### BETTER HAPPY GHASTS (https://modrinth.com/datapack/better-happy-ghast)
 POTENTIALLY makes happy ghasts worth anything
 
 #### VILLAGER MASQUERADE (https://modrinth.com/mod/village-masquerade)
@@ -71,11 +71,9 @@ Adds farming shizzle
 #### SIMPLE APPLE TREES (https://modrinth.com/mod/farmers-delight-refabricated)
 Adds apple trees and shizzle
 
-#### PANTRYWORK (https://modrinth.com/mod/pantrywork)
-lets you make shizzle from different food mods
+#### PATBOX BEREWERY (https://modrinth.com/mod/brewery)
+alcohol cause vintner isnt on aternos
 
-#### VINTNER (https://modrinth.com/mod/vintner)
-wine
 
 ## MISC mods
 #### STONEWORKS (https://modrinth.com/mod/stoneworks)
